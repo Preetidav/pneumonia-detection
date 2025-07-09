@@ -60,10 +60,12 @@ Applied on training data to improve generalization:
 | **ROC AUC**   | **0.95**     |
 
 Confusion Matrix:
-|                       |  Predicted: Normal |  Predicted: Pneumonia  |
-|                       |--------------------|------------------------|
+|                | Predicted: Normal | Predicted: Pneumonia |
+|----------------|--------------------|------------------------|
 | **Actual: Normal**    |        126         |          108           |
 | **Actual: Pneumonia** |         5          |          385           |
+
+---
 
 ## Observations & Insights
 
