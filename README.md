@@ -105,5 +105,15 @@ bash
 pip install -r requirements.txt
 
 python3 train.py
+
 python3 evaluate.py
+
 python3 plot.py
+
+
+##  Author
+
+**Preeti Yadav**  
+MSc Bioinformatics, Banaras Hindu University    
+ [GitHub Profile](https://github.com/preetidav)
+ [linkedin Profile](www.linkedin.com/in/preeti-yadav-242526223)
